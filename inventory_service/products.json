@@ -1,0 +1,29 @@
+[
+	{
+		"productId": 1,
+		"manufacturer": "Johns-Jeniks",
+		"sku": "p5343vdS",
+		"upc": "00994949430043",
+		"pricePerUnit": "497.45",
+		"quantityOnHand": 9703,
+		"productName":"sticky note"
+	},
+	{
+		"productId": 2,
+		"manufacturer": "Pera",
+		"sku": "asddf32312",
+		"upc": "44435220322223",
+		"pricePerUnit": "23.33",
+		"quantityOnHand": 93,
+		"productName":"pen"
+	},
+	{
+		"productId": 3,
+		"manufacturer": "Hasel Masel",
+		"sku": "10adsfk12@ss",
+		"upc": "000044441233120",
+		"pricePerUnit": "200",
+		"quantityOnHand": 5900,
+		"productName":"lamp shade"
+	}
+]
